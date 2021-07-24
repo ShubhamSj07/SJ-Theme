@@ -1,7 +1,7 @@
 {
   "name": "sj-theme",
   "displayName": "SJ Theme",
-  "publisher": "shubhamjadhav",
+  "publisher": "SJ",
   "author": {
     "name": "Shubham Jadhav"
   },
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ShubhamSj07/SJ-Theme"
