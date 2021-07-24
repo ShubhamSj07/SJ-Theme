@@ -1,9 +1,12 @@
 {
   "name": "sj-theme",
   "displayName": "SJ Theme",
-  "publisher": "vscode-theme",
-  "description": "",
-  "version": "0.0.1",
+  "publisher": "shubhamjadhav",
+  "author": {
+    "name": "Shubham Jadhav"
+  },
+  "description": "This is a code editor theme with extensive syntax highlight and workbench color customization implemented.",
+  "version": "1.0",
   "engines": {
     "vscode": "^1.51.0"
   },
@@ -21,6 +24,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShubhamSj07/craziest-sj-vscode-theme"
+    "url": "https://github.com/ShubhamSj07/SJ-Theme"
+  },
+  "bugs": {
+    "url": "https://github.com/ShubhamSj07/SJ-Theme/issues"
+  },
+  "keywords": [
+    "Dark-Theme",
+    "Light-theme",
+    "themes"
+  ],
+  "__metadata": {
+    "id": "41dfd253-30ad-4ab2-8919-bc3167c97d8d",
+    "publisherDisplayName": "Shubham Jadhav",
+    "publisherId": "37fd3aa4-06f5-49e0-a878-4947332dfddc"
   }
 }
