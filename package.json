@@ -6,7 +6,7 @@
     "name": "Shubham Jadhav"
   },
   "description": "This is a code editor theme with extensive syntax highlight and workbench color customization implemented.",
-  "version": "1.0",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.51.0"
   },
