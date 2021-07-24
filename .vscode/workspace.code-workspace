@@ -1,0 +1,82 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\React-Projects\\React-Learnings"
+		},
+		{
+			"path": "..\\..\\..\\..\\OneDrive\\Desktop\\C++"
+		},
+		{
+			"path": "..\\..\\..\\..\\React-JS LCO"
+		},
+		{
+			"path": "..\\..\\..\\..\\React-Projects\\React JS-Hooks"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Bootstrap Practice"
+		},
+		{
+			"path": "..\\..\\..\\..\\React-Projects\\explore-vr"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\src"
+		},
+		{
+			"path": "..\\..\\..\\..\\Demo-Website"
+		},
+		{
+			"path": "..\\..\\..\\..\\OneDrive\\Desktop\\react-website-v1-starter"
+		},
+		{
+			"path": "..\\..\\..\\..\\HamBurger-Menu"
+		},
+		{
+			"path": "..\\..\\..\\..\\Project-Website02"
+		},
+		{
+			"path": "..\\..\\..\\..\\Project-Mern"
+		},
+		{
+			"path": "..\\..\\..\\..\\Speak Virtually"
+		},
+		{
+			"path": "..\\..\\..\\..\\Ref. File"
+		},
+		{
+			"path": "..\\..\\..\\..\\React Components"
+		},
+		{
+			"path": "..\\..\\..\\..\\Mongoose-Testing"
+		},
+		{
+			"path": "..\\..\\..\\..\\JavaScript-Tutorials"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\zenith-bulls2web-frontend-main\\zenith-bulls2web-frontend-main"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\react-todo-app-v1-master\\react-todo-app-v1-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\React-Projects\\React-Resume-Proj"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"[json]": {
+
+			"editor.quickSuggestions": {
+				"strings": true
+			},
+			"editor.suggest.insertMode": "replace"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "HamBurger-Menu"
+
+	},
+	
+}

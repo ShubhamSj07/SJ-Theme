@@ -1,0 +1,22 @@
+{
+  "name": "sj-theme",
+  "displayName": "SJ Theme",
+  "publisher": "vscode-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SJ Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SJ Theme-color-theme.json"
+      }
+    ]
+  }
+}
