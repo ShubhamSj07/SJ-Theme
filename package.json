@@ -18,5 +18,9 @@
         "path": "./themes/SJ Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShubhamSj07/craziest-sj-vscode-theme"
   }
 }
